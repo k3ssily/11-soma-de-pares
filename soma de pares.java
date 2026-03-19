@@ -11,8 +11,6 @@ public class Main{
 	  if(i % 2==0 ){
 	   soma +=i;
 	  
-	 
-	
 	}
 }
     System.out.println("a soma é:" + soma);
